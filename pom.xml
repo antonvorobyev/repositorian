@@ -965,6 +965,12 @@
             <version>6.10.1</version>
         </dependency>
 
+        <dependency>
+            <groupId>net.sourceforge.pmd</groupId>
+            <artifactId>pmd</artifactId>
+            <version>5.3.3</version>
+        </dependency>
+
     </dependencies>
 
 </project>
