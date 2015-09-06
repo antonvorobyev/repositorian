@@ -2712,6 +2712,12 @@
             <version>0.5</version>
         </dependency>
 
+        <dependency>
+            <groupId>dnsjava</groupId>
+            <artifactId>dnsjava</artifactId>
+            <version>2.1.7</version>
+        </dependency>
+
     </dependencies>
 
 </project>
