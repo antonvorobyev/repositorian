@@ -1295,6 +1295,12 @@
             <version>2.11</version>
         </dependency>
 
+        <dependency>
+            <groupId>org.eclipse.jetty</groupId>
+            <artifactId>jetty-maven-plugin</artifactId>
+            <version>9.3.3.v20150827</version>
+        </dependency>
+
     </dependencies>
 
 </project>
