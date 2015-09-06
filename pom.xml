@@ -755,6 +755,12 @@
             <version>5.0.4</version>
         </dependency>
 
+        <dependency>
+            <groupId>org.scala-lang</groupId>
+            <artifactId>scalap</artifactId>
+            <version>2.11.7</version>
+        </dependency>
+
     </dependencies>
 
 </project>
