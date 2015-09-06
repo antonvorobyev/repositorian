@@ -1914,6 +1914,12 @@
             <version>0.1.53</version>
         </dependency>
 
+        <dependency>
+            <groupId>org.apache.sshd</groupId>
+            <artifactId>sshd-core</artifactId>
+            <version>0.14.0</version>
+        </dependency>
+
     </dependencies>
 
 </project>
