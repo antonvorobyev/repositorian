@@ -2652,6 +2652,12 @@
             <version>1.8</version>
         </dependency>
 
+        <dependency>
+            <groupId>org.apache.xmlgraphics</groupId>
+            <artifactId>batik-parser</artifactId>
+            <version>1.8</version>
+        </dependency>
+
     </dependencies>
 
 </project>
