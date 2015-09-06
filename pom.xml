@@ -2694,6 +2694,12 @@
             <version>4.0.4</version>
         </dependency>
 
+        <dependency>
+            <groupId>net.spy</groupId>
+            <artifactId>spymemcached</artifactId>
+            <version>2.12.0</version>
+        </dependency>
+
     </dependencies>
 
 </project>
