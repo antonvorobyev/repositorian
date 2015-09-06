@@ -749,6 +749,12 @@
             <version>3.20.0-GA</version>
         </dependency>
 
+        <dependency>
+            <groupId>org.ow2.asm</groupId>
+            <artifactId>asm-all</artifactId>
+            <version>5.0.4</version>
+        </dependency>
+
     </dependencies>
 
 </project>
