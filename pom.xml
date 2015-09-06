@@ -1229,6 +1229,12 @@
             <version>1.8</version>
         </dependency>
 
+        <dependency>
+            <groupId>org.apache.maven.plugins</groupId>
+            <artifactId>maven-gpg-plugin</artifactId>
+            <version>1.6</version>
+        </dependency>
+
     </dependencies>
 
 </project>
