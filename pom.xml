@@ -2064,6 +2064,12 @@
             <version>3.0.3</version>
         </dependency>
 
+        <dependency>
+            <groupId>org.apache.lucene</groupId>
+            <artifactId>lucene-analyzers-uima</artifactId>
+            <version>5.3.0</version>
+        </dependency>
+
     </dependencies>
 
 </project>
