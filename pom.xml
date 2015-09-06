@@ -2244,6 +2244,12 @@
             <version>2.6.0</version>
         </dependency>
 
+        <dependency>
+            <groupId>com.thinkaurelius.titan</groupId>
+            <artifactId>titan-cassandra</artifactId>
+            <version>0.5.4</version>
+        </dependency>
+
     </dependencies>
 
 </project>
