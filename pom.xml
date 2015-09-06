@@ -1121,6 +1121,12 @@
             <version>4.1.6.RELEASE</version>
         </dependency>
 
+        <dependency>
+            <groupId>org.apache.servicemix</groupId>
+            <artifactId>servicemix-core</artifactId>
+            <version>3.4.1</version>
+        </dependency>
+
     </dependencies>
 
 </project>
