@@ -1403,6 +1403,12 @@
             <version>2.16</version>
         </dependency>
 
+        <dependency>
+            <groupId>org.apache.maven.plugins</groupId>
+            <artifactId>maven-pmd-plugin</artifactId>
+            <version>3.5</version>
+        </dependency>
+
     </dependencies>
 
 </project>
