@@ -2082,6 +2082,12 @@
             <version>2.2.0</version>
         </dependency>
 
+        <dependency>
+            <groupId>org.apache.lucene</groupId>
+            <artifactId>lucene-pruning</artifactId>
+            <version>3.6.2</version>
+        </dependency>
+
     </dependencies>
 
 </project>
