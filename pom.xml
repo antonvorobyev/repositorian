@@ -1722,6 +1722,12 @@
             <version>2.13</version>
         </dependency>
 
+        <dependency>
+            <groupId>org.scala-lang</groupId>
+            <artifactId>jline</artifactId>
+            <version>2.10.5</version>
+        </dependency>
+
     </dependencies>
 
 </project>
