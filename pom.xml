@@ -2322,6 +2322,12 @@
             <version>1.20.0</version>
         </dependency>
 
+        <dependency>
+            <groupId>net.oauth.core</groupId>
+            <artifactId>oauth</artifactId>
+            <version>20100527</version>
+        </dependency>
+
     </dependencies>
 
 </project>
