@@ -1475,6 +1475,12 @@
             <version>0.9.16</version>
         </dependency>
 
+        <dependency>
+            <groupId>org.seleniumhq.selenium</groupId>
+            <artifactId>selenium-java</artifactId>
+            <version>2.47.1</version>
+        </dependency>
+
     </dependencies>
 
 </project>
