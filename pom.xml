@@ -1355,6 +1355,12 @@
             <version>1.2</version>
         </dependency>
 
+        <dependency>
+            <groupId>org.codehaus.mojo</groupId>
+            <artifactId>keytool-maven-plugin</artifactId>
+            <version>1.5</version>
+        </dependency>
+
     </dependencies>
 
 </project>
