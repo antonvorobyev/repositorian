@@ -2304,6 +2304,12 @@
             <version>1.1</version>
         </dependency>
 
+        <dependency>
+            <groupId>org.eclipse.jetty.websocket</groupId>
+            <artifactId>websocket-client</artifactId>
+            <version>9.3.3.v20150827</version>
+        </dependency>
+
     </dependencies>
 
 </project>
