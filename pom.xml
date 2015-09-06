@@ -2076,6 +2076,12 @@
             <version>3.0.3</version>
         </dependency>
 
+        <dependency>
+            <groupId>org.apache.lucene</groupId>
+            <artifactId>lucene-similarity</artifactId>
+            <version>2.2.0</version>
+        </dependency>
+
     </dependencies>
 
 </project>
