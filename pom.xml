@@ -2124,6 +2124,12 @@
             <version>5.3.0</version>
         </dependency>
 
+        <dependency>
+            <groupId>mx4j</groupId>
+            <artifactId>mx4j</artifactId>
+            <version>3.0.2</version>
+        </dependency>
+
     </dependencies>
 
 </project>
