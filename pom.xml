@@ -1625,6 +1625,12 @@
             <version>1.0.3</version>
         </dependency>
 
+        <dependency>
+            <groupId>org.apache.mahout</groupId>
+            <artifactId>mahout-math</artifactId>
+            <version>0.11.0</version>
+        </dependency>
+
     </dependencies>
 
 </project>
