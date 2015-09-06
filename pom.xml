@@ -1499,6 +1499,12 @@
             <version>2.47.1</version>
         </dependency>
 
+        <dependency>
+            <groupId>org.antlr</groupId>
+            <artifactId>antlr4</artifactId>
+            <version>4.5.1-1</version>
+        </dependency>
+
     </dependencies>
 
 </project>
