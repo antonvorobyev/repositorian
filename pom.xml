@@ -2706,6 +2706,12 @@
             <version>1.0.0</version>
         </dependency>
 
+        <dependency>
+            <groupId>commons-i18n</groupId>
+            <artifactId>commons-i18n</artifactId>
+            <version>0.5</version>
+        </dependency>
+
     </dependencies>
 
 </project>
