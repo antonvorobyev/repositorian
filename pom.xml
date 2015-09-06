@@ -833,6 +833,12 @@
             <version>0.9.10</version>
         </dependency>
 
+        <dependency>
+            <groupId>org.objenesis</groupId>
+            <artifactId>objenesis</artifactId>
+            <version>2.2</version>
+        </dependency>
+
     </dependencies>
 
 </project>
