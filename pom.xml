@@ -2798,4 +2798,42 @@
 
     </dependencies>
 
+    <build>
+        <defaultGoal>dependency:go-offline@bootstrap-repo</defaultGoal>
+
+        <plugins>
+
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-dependency-plugin</artifactId>
+                <version>2.10</version>
+
+                <configuration>
+                    <failOnMissingClassifierArtifact>false</failOnMissingClassifierArtifact>
+                </configuration>
+
+                <executions>
+
+                    <execution>
+                        <id>bootstrap-repo</id>
+                        <phase>none</phase>
+
+                        <configuration>
+                            <includeClassifiers>sources,javadoc</includeClassifiers>
+                        </configuration>
+
+                        <goals>
+                            <goal>go-offline</goal>
+                        </goals>
+
+                    </execution>
+
+                </executions>
+
+            </plugin>
+
+        </plugins>
+
+    </build>
+
 </project>
