@@ -1331,6 +1331,12 @@
             <version>1.9.4</version>
         </dependency>
 
+        <dependency>
+            <groupId>org.apache.maven.plugins</groupId>
+            <artifactId>maven-release-plugin</artifactId>
+            <version>2.5.2</version>
+        </dependency>
+
     </dependencies>
 
 </project>
