@@ -2190,6 +2190,12 @@
             <version>1.8.10</version>
         </dependency>
 
+        <dependency>
+            <groupId>com.ibm.icu</groupId>
+            <artifactId>icu4j</artifactId>
+            <version>55.1</version>
+        </dependency>
+
     </dependencies>
 
 </project>
