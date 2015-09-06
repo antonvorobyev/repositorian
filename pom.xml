@@ -1265,6 +1265,12 @@
             <version>3.4</version>
         </dependency>
 
+        <dependency>
+            <groupId>org.codehaus.gmaven</groupId>
+            <artifactId>gmaven-plugin</artifactId>
+            <version>1.5</version>
+        </dependency>
+
     </dependencies>
 
 </project>
