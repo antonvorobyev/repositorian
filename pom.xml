@@ -863,6 +863,12 @@
             <version>1.2.10.Final</version>
         </dependency>
 
+        <dependency>
+            <groupId>com.typesafe.zinc</groupId>
+            <artifactId>zinc</artifactId>
+            <version>0.3.7</version>
+        </dependency>
+
     </dependencies>
 
 </project>
