@@ -2742,6 +2742,12 @@
             <version>0.26</version>
         </dependency>
 
+        <dependency>
+            <groupId>net.sourceforge.parallelcolt</groupId>
+            <artifactId>parallelcolt</artifactId>
+            <version>0.10.1</version>
+        </dependency>
+
     </dependencies>
 
 </project>
