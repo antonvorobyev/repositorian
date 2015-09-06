@@ -287,6 +287,12 @@
             <version>1.9.2</version>
         </dependency>
 
+        <dependency>
+            <groupId>org.apache.maven.plugin-tools</groupId>
+            <artifactId>maven-plugin-annotations</artifactId>
+            <version>3.4</version>
+        </dependency>
+
     </dependencies>
 
 </project>
