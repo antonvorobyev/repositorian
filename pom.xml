@@ -1860,6 +1860,12 @@
             <version>0.7.2</version>
         </dependency>
 
+        <dependency>
+            <groupId>com.google.caliper</groupId>
+            <artifactId>caliper</artifactId>
+            <version>1.0-beta-2</version>
+        </dependency>
+
     </dependencies>
 
 </project>
