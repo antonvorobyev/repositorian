@@ -593,6 +593,12 @@
             <version>1.57</version>
         </dependency>
 
+        <dependency>
+            <groupId>org.powermock</groupId>
+            <artifactId>powermock-core</artifactId>
+            <version>1.6.2</version>
+        </dependency>
+
     </dependencies>
 
 </project>
