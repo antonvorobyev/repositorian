@@ -1469,6 +1469,12 @@
             <version>3.1.2</version>
         </dependency>
 
+        <dependency>
+            <groupId>org.perf4j</groupId>
+            <artifactId>perf4j</artifactId>
+            <version>0.9.16</version>
+        </dependency>
+
     </dependencies>
 
 </project>
