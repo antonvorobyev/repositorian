@@ -1523,6 +1523,12 @@
             <version>2.3.13</version>
         </dependency>
 
+        <dependency>
+            <groupId>com.typesafe.akka</groupId>
+            <artifactId>akka-cluster_2.10</artifactId>
+            <version>2.3.13</version>
+        </dependency>
+
     </dependencies>
 
 </project>
