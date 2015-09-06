@@ -1325,6 +1325,12 @@
             <version>2.18.1</version>
         </dependency>
 
+        <dependency>
+            <groupId>org.apache.maven.plugins</groupId>
+            <artifactId>maven-scm-plugin</artifactId>
+            <version>1.9.4</version>
+        </dependency>
+
     </dependencies>
 
 </project>
