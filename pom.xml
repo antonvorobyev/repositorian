@@ -1637,6 +1637,12 @@
             <version>4.0.2.RELEASE</version>
         </dependency>
 
+        <dependency>
+            <groupId>org.apache.karaf</groupId>
+            <artifactId>apache-karaf</artifactId>
+            <version>4.0.1</version>
+        </dependency>
+
     </dependencies>
 
 </project>
