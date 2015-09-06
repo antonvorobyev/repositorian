@@ -875,6 +875,12 @@
             <version>2.3.23</version>
         </dependency>
 
+        <dependency>
+            <groupId>org.antlr</groupId>
+            <artifactId>stringtemplate</artifactId>
+            <version>4.0.2</version>
+        </dependency>
+
     </dependencies>
 
 </project>
